@@ -1,3 +1,3 @@
 # First Project  
 
-A simple project to learn the basics of GitHub and version control!
+! First Git Project (git-and-github-for-beginner)
